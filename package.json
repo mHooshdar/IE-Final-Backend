@@ -1,0 +1,21 @@
+{
+  "name": "ie-backend",
+  "version": "1.0.0",
+  "description": "ie - 1397",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
